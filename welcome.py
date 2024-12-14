@@ -1,0 +1,5 @@
+print("My name is kaylim and i will go on holiday 0n the 21")
+print(12)
+print("My name is Kaylim and I am 12+12 years old")
+print("My name is Kaylim and I am", 12 + 12, " years old\n I live in johanesburg")
+print(f"My name is Kaylim and I am {12+12} years old")
